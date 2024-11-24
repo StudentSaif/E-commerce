@@ -9,6 +9,6 @@ class WebsiteController extends Controller
 {
     public function index() {
         echo"<h1>hello come to e-commerce website</h1>";
-        echo"<h>This is my E-commerce website</h2>";
+        echo"<h2>This is my E-commerce website</h2>";
     }
 }
